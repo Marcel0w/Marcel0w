@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/marcelo-silva-90a81812a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-    ![Snake animation](https://github.com/Marcel0w/Marcel0w/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Marcel0w/Marcel0w/blob/output/github-contribution-grid-snake.svg)
  
   
   
